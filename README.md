@@ -1,8 +1,8 @@
 # Lithium, Uranium and Tech : A Quantitative Dive into ETF Time Series
 
-- KWEB — KraneShares CSI China Internet ETF  
-- LIT — Global X Lithium & Battery Tech ETF  
-- URA — Global X Uranium ETF
+- KWEB - KraneShares CSI China Internet ETF  
+- LIT - Global X Lithium & Battery Tech ETF  
+- URA - Global X Uranium ETF
 
 ## Objectives
 
@@ -37,7 +37,7 @@
 
 - Source: Yahoo Finance  
 - Frequency: Weekly  
-- Period: January 2015 — January 2025
+- Period: January 2015 - January 2025
 
 ## Tool
 
